@@ -25,14 +25,23 @@ It uses a **retrieval-augmented generation (RAG)** pipeline to fetch the most re
 ---
 
 ## 📂 Project Structure
+
 hackrx_full_project/
+
 │── backend/ # FastAPI backend (document ingestion, embeddings, QA pipeline)
+
 │── frontend/ # React/HTML frontend (file upload + query interface)
+
 │── models/ # Placeholder for embeddings/LLM configs
+
 │── data/ # Sample documents (PDF/Word/Email)
+
 │── tests/ # Unit and integration tests
+
 │── requirements.txt # Python dependencies
+
 │── README.md # Project description (this file)
+
 
 ---
 
